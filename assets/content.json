@@ -1,0 +1,341 @@
+{
+  "themes": [
+    "Risk, Cost, and Project Delivery Analytics for Transportation Infrastructure",
+    "Infrastructure Asset Management and Resilience",
+    "Explainable AI and Machine Learning for Construction Decision Support",
+    "Building Information Modeling (BIM) and Digital Construction",
+    "Construction Education and Workforce Development"
+  ],
+  "publications": [
+    {
+      "kind": "Journal article",
+      "authors": "Baek, M. & Nguyen, P. H. (2026).",
+      "title": "Predicting Competitive Bidding Levels in Transportation Projects Using Explainable Machine Learning and Deep Learning Methods",
+      "venue": "Journal of Construction Engineering and Management, 152(12), 04026208.",
+      "url": "https://doi.org/10.1061/JCEMD4.COENG-18464",
+      "citation": "Baek, M. & Nguyen, P. H. (2026). Predicting Competitive Bidding Levels in Transportation Projects Using Explainable Machine Learning and Deep Learning Methods. Journal of Construction Engineering and Management, 152(12), 04026208. https://doi.org/10.1061/JCEMD4.COENG-18464"
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Baek, M. & Lee, J.-H. (2026).",
+      "title": "Interpretable Machine Learning for Classifying Expansion and Deceleration Regimes in the U.S",
+      "venue": "Housing Market Using Construction Cost and Supply Indicators. Buildings, 16(15), 3000.",
+      "url": "https://doi.org/10.3390/buildings16153000",
+      "citation": "Baek, M. & Lee, J.-H. (2026). Interpretable Machine Learning for Classifying Expansion and Deceleration Regimes in the U.S. Housing Market Using Construction Cost and Supply Indicators. Buildings, 16(15), 3000. https://doi.org/10.3390/buildings16153000"
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Baek, M. & Nguyen, P. H. (2026).",
+      "title": "A systematic review of technologies and methodologies for automated bridge inspection",
+      "venue": "Structure and Infrastructure Engineering, 1-20.",
+      "url": "https://doi.org/10.1080/15732479.2026.2633534",
+      "citation": "Baek, M. & Nguyen, P. H. (2026). A systematic review of technologies and methodologies for automated bridge inspection. Structure and Infrastructure Engineering, 1-20. https://doi.org/10.1080/15732479.2026.2633534"
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Baek, M. & Seo, Y. (2025).",
+      "title": "Hybrid Forecasting of University Electricity Demand Using Time Series and Deep Learning",
+      "venue": "Energy and Buildings, 347(Part B). ISSN 0378-7788.",
+      "url": "",
+      "citation": "Baek, M. & Seo, Y. (2025). Hybrid Forecasting of University Electricity Demand Using Time Series and Deep Learning. Energy and Buildings, 347(Part B). ISSN 0378-7788."
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Baek, M., & Lee, J. H. (2025).",
+      "title": "Predictive Modeling of Low Bid Deviations in US Transportation Infrastructure Projects",
+      "venue": "Built Environment Project and Asset Management, 1–19.",
+      "url": "",
+      "citation": "Baek, M., & Lee, J. H. (2025). Predictive Modeling of Low Bid Deviations in US Transportation Infrastructure Projects. Built Environment Project and Asset Management, 1–19."
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Chung, F., Doyle, A., Robinson, E., Paik, Y., Li, M., Baek, M., ... & Ashuri, B. (2024).",
+      "title": "Ensemble Machine Learning Classification Models for Predicting Pavement Condition",
+      "venue": "Transportation Research Record. 03611981241240766.",
+      "url": "",
+      "citation": "Chung, F., Doyle, A., Robinson, E., Paik, Y., Li, M., Baek, M., ... & Ashuri, B. (2024). Ensemble Machine Learning Classification Models for Predicting Pavement Condition. Transportation Research Record. 03611981241240766."
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Chung, F., Baek, M., & Ashuri, B. (2022).",
+      "title": "Improving the Management Practices for Right-of-Way Acquisition Process",
+      "venue": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction, 14(1), 04521038.",
+      "url": "",
+      "citation": "Chung, F., Baek, M., & Ashuri, B. (2022). Improving the Management Practices for Right-of-Way Acquisition Process. Journal of Legal Affairs and Dispute Resolution in Engineering and Construction, 14(1), 04521038."
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Baek, M. & Ashuri, B. (2021).",
+      "title": "Synthesis of Practices and Tools for Cost Estimation and Cost Management for Transportation Projects",
+      "venue": "Journal for the Advancement of Performance Information and Value, 13(1), 22–22.",
+      "url": "",
+      "citation": "Baek, M. & Ashuri, B. (2021). Synthesis of Practices and Tools for Cost Estimation and Cost Management for Transportation Projects. Journal for the Advancement of Performance Information and Value, 13(1), 22–22."
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Li, M., Baek, M., & Ashuri, B. (2021).",
+      "title": "Forecasting Ratio of Low Bid to Owner's Estimate for Highway Construction",
+      "venue": "Journal of Construction Engineering and Management, 147(1), 04020157.",
+      "url": "",
+      "citation": "Li, M., Baek, M., & Ashuri, B. (2021). Forecasting Ratio of Low Bid to Owner's Estimate for Highway Construction. Journal of Construction Engineering and Management, 147(1), 04020157."
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Baek, M. & Ashuri, B. (2019).",
+      "title": "Analysis of the Variability of Submitted Unit Price Bids for Asphalt Line Items in Highway Projects",
+      "venue": "Journal of Construction Engineering and Management, 145(4), 04019020.",
+      "url": "",
+      "citation": "Baek, M. & Ashuri, B. (2019). Analysis of the Variability of Submitted Unit Price Bids for Asphalt Line Items in Highway Projects. Journal of Construction Engineering and Management, 145(4), 04019020."
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Ashuri, B., Wang, J., Shahandashti, M., & Baek, M. (2019).",
+      "title": "A Data Envelopment Analysis (DEA) Model for Building Energy Benchmarking",
+      "venue": "Journal of Engineering, Design and Technology.",
+      "url": "",
+      "citation": "Ashuri, B., Wang, J., Shahandashti, M., & Baek, M. (2019). A Data Envelopment Analysis (DEA) Model for Building Energy Benchmarking. Journal of Engineering, Design and Technology."
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Baek, M. & Ashuri, B. (2018).",
+      "title": "Profile Monitoring for Examining Impact of Hurricane Katrina and Rita on Highway Construction Cost",
+      "venue": "Transportation Research Record, 2672(51), 79–87.",
+      "url": "",
+      "citation": "Baek, M. & Ashuri, B. (2018). Profile Monitoring for Examining Impact of Hurricane Katrina and Rita on Highway Construction Cost. Transportation Research Record, 2672(51), 79–87."
+    },
+    {
+      "kind": "Journal article",
+      "authors": "Cao, Y., Ashuri, B., & Baek, M. (2018).",
+      "title": "Prediction of Unit Price Bids of Resurfacing Highway Projects Through Ensemble Machine Learning",
+      "venue": "Journal of Computing in Civil Engineering, 32(5), 04018043.",
+      "url": "",
+      "citation": "Cao, Y., Ashuri, B., & Baek, M. (2018). Prediction of Unit Price Bids of Resurfacing Highway Projects Through Ensemble Machine Learning. Journal of Computing in Civil Engineering, 32(5), 04018043."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M., Lee, J. H., & Chung, F. (2026).",
+      "title": "Identifying Regional Disparities in Affordable Housing Supply for Construction Planning and Policy",
+      "venue": "Construction Research Congress 2026, San Antonio, TX, March 18–21, 2026.",
+      "url": "",
+      "citation": "Baek, M., Lee, J. H., & Chung, F. (2026). Identifying Regional Disparities in Affordable Housing Supply for Construction Planning and Policy. Construction Research Congress 2026, San Antonio, TX, March 18–21, 2026."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Chung, F., Baek, M., Lee, J. H., & Ashuri, B. (in press).",
+      "title": "Using Shapley Additive Explanations to Explore Features Affecting Expenditure Cash Flow Patterns",
+      "venue": "Joint CSCE Construction Specialty & CRC Conference 2025.",
+      "url": "",
+      "citation": "Chung, F., Baek, M., Lee, J. H., & Ashuri, B. (in press). Using Shapley Additive Explanations to Explore Features Affecting Expenditure Cash Flow Patterns. Joint CSCE Construction Specialty & CRC Conference 2025."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M., Kim, H., Manuel, R., & Chang, S. (2025).",
+      "title": "Assessing the Sustainability Skills Gap Between Industry Needs and Academic Training in Construction Management",
+      "venue": "CIB Conferences, 1(1), 230.",
+      "url": "",
+      "citation": "Baek, M., Kim, H., Manuel, R., & Chang, S. (2025). Assessing the Sustainability Skills Gap Between Industry Needs and Academic Training in Construction Management. CIB Conferences, 1(1), 230."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Chung, F., Baek, M., Paik, Y., & Baabak, A. (2024).",
+      "title": "Empirical Analysis of Pavement Condition Transition Probabilities",
+      "venue": "Construction Research Congress 2024.",
+      "url": "",
+      "citation": "Chung, F., Baek, M., Paik, Y., & Baabak, A. (2024). Empirical Analysis of Pavement Condition Transition Probabilities. Construction Research Congress 2024."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M. & Ashuri, B. (2023).",
+      "title": "Fixed Budget-Best Value Procurement Method and Case Studies for Transportation Projects",
+      "venue": "Proceedings of the 59th Annual Associated Schools of Construction, 4, 668–676.",
+      "url": "",
+      "citation": "Baek, M. & Ashuri, B. (2023). Fixed Budget-Best Value Procurement Method and Case Studies for Transportation Projects. Proceedings of the 59th Annual Associated Schools of Construction, 4, 668–676."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M., Li, M., & Ashuri, B. (2022).",
+      "title": "Empirical Analysis of Lump Sum Pay Item Prices for Highway Projects",
+      "venue": "EPiC Series in Built Environment, 3, 209–217.",
+      "url": "",
+      "citation": "Baek, M., Li, M., & Ashuri, B. (2022). Empirical Analysis of Lump Sum Pay Item Prices for Highway Projects. EPiC Series in Built Environment, 3, 209–217."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M., Liang, Y., & Ashuri, B. (2022).",
+      "title": "A Pattern-Recognition Method for Highway Construction Project Expenditure Cash Flows Using Clustering-Based K-Means Approach",
+      "venue": "Construction Research Congress 2022, 302–310.",
+      "url": "",
+      "citation": "Baek, M., Liang, Y., & Ashuri, B. (2022). A Pattern-Recognition Method for Highway Construction Project Expenditure Cash Flows Using Clustering-Based K-Means Approach. Construction Research Congress 2022, 302–310."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M., Ashuri, B., & Veeravenkatappa, S. (2022).",
+      "title": "Developing a Multivariate Time-Series Model to Forecast the Level of Competition in Transportation Projects",
+      "venue": "Construction Research Congress 2022, 283–291.",
+      "url": "",
+      "citation": "Baek, M., Ashuri, B., & Veeravenkatappa, S. (2022). Developing a Multivariate Time-Series Model to Forecast the Level of Competition in Transportation Projects. Construction Research Congress 2022, 283–291."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M., Shah, R., & Ashuri, B. (2021).",
+      "title": "Analyzing State Highway Agencies' Project Management Organizational Structures",
+      "venue": "EPiC Series in Built Environment, 2, 173–181.",
+      "url": "",
+      "citation": "Baek, M., Shah, R., & Ashuri, B. (2021). Analyzing State Highway Agencies' Project Management Organizational Structures. EPiC Series in Built Environment, 2, 173–181."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Adhikari, S., Meadati, P., & Baek, M. (2020).",
+      "title": "The Implementation of BIM Application in University Teaching: Case Study of a Construction Management Program",
+      "venue": "2020 ASEE Virtual Annual Conference Content Access.",
+      "url": "",
+      "citation": "Adhikari, S., Meadati, P., & Baek, M. (2020). The Implementation of BIM Application in University Teaching: Case Study of a Construction Management Program. 2020 ASEE Virtual Annual Conference Content Access."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M. & Ashuri, B. (2019).",
+      "title": "Assessing Low Bid Deviation from Engineer's Estimate in Highway Construction Projects",
+      "venue": "Proceedings of the Associated Schools of Construction, Denver, CO, 10–13.",
+      "url": "",
+      "citation": "Baek, M. & Ashuri, B. (2019). Assessing Low Bid Deviation from Engineer's Estimate in Highway Construction Projects. Proceedings of the Associated Schools of Construction, Denver, CO, 10–13."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M. & Ashuri, B. (2018).",
+      "title": "Assessment of Spatial Correlation Patterns of Unit Price Bids and External Factors",
+      "venue": "Proceedings of the 54th Associated Schools of Construction (ASC) Annual International Conference, 18–21.",
+      "url": "",
+      "citation": "Baek, M. & Ashuri, B. (2018). Assessment of Spatial Correlation Patterns of Unit Price Bids and External Factors. Proceedings of the 54th Associated Schools of Construction (ASC) Annual International Conference, 18–21."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M. & Ashuri, B. (2018).",
+      "title": "Statistical Modeling of Number of Bidders in Highway Resurfacing and Widening Construction Projects",
+      "venue": "Construction Research Congress 2018, 670–679.",
+      "url": "",
+      "citation": "Baek, M. & Ashuri, B. (2018). Statistical Modeling of Number of Bidders in Highway Resurfacing and Widening Construction Projects. Construction Research Congress 2018, 670–679."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M. & Ashuri, B. (2017).",
+      "title": "Spatial Regression Analysis for Modelling the Spatial Variation in Highway Construction Costs",
+      "venue": "The Ninth International Structural Engineering and Construction Conference (ISEC-9), Valencia, Spain, July 24–29, 2017.",
+      "url": "",
+      "citation": "Baek, M. & Ashuri, B. (2017). Spatial Regression Analysis for Modelling the Spatial Variation in Highway Construction Costs. The Ninth International Structural Engineering and Construction Conference (ISEC-9), Valencia, Spain, July 24–29, 2017."
+    },
+    {
+      "kind": "Conference paper",
+      "authors": "Baek, M., Mostaan, K., & Ashuri, B. (2016).",
+      "title": "Recommended Practices for the Cost Control of Highway Project Development",
+      "venue": "Construction Research Congress 2016, 739–748.",
+      "url": "",
+      "citation": "Baek, M., Mostaan, K., & Ashuri, B. (2016). Recommended Practices for the Cost Control of Highway Project Development. Construction Research Congress 2016, 739–748."
+    },
+    {
+      "kind": "Research report",
+      "authors": "Moore, B. P., Baek, M., Ashuri, B., Chung, F., & Paik, Y. (2024).",
+      "title": "Enhancing the GDOT's Maintenance Decision Trees Considering the Effectiveness of Various Treatment Options in Different Geographical Locations and Over Time (No",
+      "venue": "FHWA-GA-24-2103). Georgia Department of Transportation, Office of Performance-Based Management & Research.",
+      "url": "",
+      "citation": "Moore, B. P., Baek, M., Ashuri, B., Chung, F., & Paik, Y. (2024). Enhancing the GDOT's Maintenance Decision Trees Considering the Effectiveness of Various Treatment Options in Different Geographical Locations and Over Time (No. FHWA-GA-24-2103). Georgia Department of Transportation, Office of Performance-Based Management & Research."
+    },
+    {
+      "kind": "Research report",
+      "authors": "Ashuri, B., Baek, M., & Li, M. (2022).",
+      "title": "Enhancing the Accuracy of Construction Cost Estimates for Major Lump Sum (LS) Pay Items and Generating a More-Accurate List of Pay Items Throughout the Design Development Process (No",
+      "venue": "FHWA-GA-22-2017). Georgia Department of Transportation, Office of Performance-Based Management & Research.",
+      "url": "",
+      "citation": "Ashuri, B., Baek, M., & Li, M. (2022). Enhancing the Accuracy of Construction Cost Estimates for Major Lump Sum (LS) Pay Items and Generating a More-Accurate List of Pay Items Throughout the Design Development Process (No. FHWA-GA-22-2017). Georgia Department of Transportation, Office of Performance-Based Management & Research."
+    },
+    {
+      "kind": "Research report",
+      "authors": "Ashuri, B., Chung, F., Zeng, S., Jallan, Y., & Baek, M. (2020).",
+      "title": "Estimating ROW Acquisition Project Timelines for Major Projects Based on Analyzing ROW Acquisition Processes: Phase I (No",
+      "venue": "FHWA-GA-21-183). Georgia Department of Transportation, Office of Performance-Based Management and Research.",
+      "url": "",
+      "citation": "Ashuri, B., Chung, F., Zeng, S., Jallan, Y., & Baek, M. (2020). Estimating ROW Acquisition Project Timelines for Major Projects Based on Analyzing ROW Acquisition Processes: Phase I (No. FHWA-GA-21-183). Georgia Department of Transportation, Office of Performance-Based Management and Research."
+    },
+    {
+      "kind": "Research report",
+      "authors": "Ashuri, B., Baek, M., Shah, R., & Kingsley, G. (2020).",
+      "title": "Evaluation of Georgia Department of Transportation Office of Program Delivery Project Management Organizational Structure in Comparison to Other States' DOT Practices, Tier 1: Best Management Practices (BMPs) of Design-Bid-Build Transportation Program (No",
+      "venue": "FHWA-GA-20-1812). Georgia Department of Transportation, Office of Performance-Based Management & Research.",
+      "url": "",
+      "citation": "Ashuri, B., Baek, M., Shah, R., & Kingsley, G. (2020). Evaluation of Georgia Department of Transportation Office of Program Delivery Project Management Organizational Structure in Comparison to Other States' DOT Practices, Tier 1: Best Management Practices (BMPs) of Design-Bid-Build Transportation Program (No. FHWA-GA-20-1812). Georgia Department of Transportation, Office of Performance-Based Management & Research."
+    },
+    {
+      "kind": "Research report",
+      "authors": "Ashuri, B., Moradi, A., Baek, M., Kingsley, G., An, H. Y., Zhang, L., Liang, Y., & Bahrami, S. (2018).",
+      "title": "Enhancement of the Comprehensive Risk Assessment for Transportation Projects (No",
+      "venue": "FHWA-GA-18-1628). Georgia Department of Transportation.",
+      "url": "",
+      "citation": "Ashuri, B., Moradi, A., Baek, M., Kingsley, G., An, H. Y., Zhang, L., Liang, Y., & Bahrami, S. (2018). Enhancement of the Comprehensive Risk Assessment for Transportation Projects (No. FHWA-GA-18-1628). Georgia Department of Transportation."
+    },
+    {
+      "kind": "Research report",
+      "authors": "Ashuri, B., Moradi, A., Baek, M., Kingsley, G., An, H. Y., Zhang, L., Liang, Y., & Bahrami, S. (2018).",
+      "title": "Risk Mitigation Strategies to Enhance the Delivery of Highway Projects (No",
+      "venue": "FHWA-GA-18-1640). Georgia Department of Transportation, Office of Performance-Based Management and Research.",
+      "url": "",
+      "citation": "Ashuri, B., Moradi, A., Baek, M., Kingsley, G., An, H. Y., Zhang, L., Liang, Y., & Bahrami, S. (2018). Risk Mitigation Strategies to Enhance the Delivery of Highway Projects (No. FHWA-GA-18-1640). Georgia Department of Transportation, Office of Performance-Based Management and Research."
+    },
+    {
+      "kind": "Research report",
+      "authors": "Ashuri, B., Baek, M., & Li, Y. (2017).",
+      "title": "Best Practices for Budget-Based Design (No",
+      "venue": "FHWA-GA-17-1409). Georgia Department of Transportation, Office of Research.",
+      "url": "",
+      "citation": "Ashuri, B., Baek, M., & Li, Y. (2017). Best Practices for Budget-Based Design (No. FHWA-GA-17-1409). Georgia Department of Transportation, Office of Research."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Collaborative Research: Generative Artificial Intelligence Integrated with Role-Responsive Virtual Reality for Construction Education",
+      "detail": "National Science Foundation (NSF), EDU Core Research (Award No. 2600289). $250,000.00. 10/01/2026 – 09/30/2029.",
+      "role": "PI",
+      "source": "Baek, M. (Principal Investigator). Collaborative Research: Generative Artificial Intelligence Integrated with Role-Responsive Virtual Reality for Construction Education. Sponsor: National Science Foundation (NSF), EDU Core Research (Award No. 2600289). $250,000.00. 10/01/2026 – 09/30/2029."
+    },
+    {
+      "title": "Using 360° Images and AI to Identify Construction Site Access and Clutter Hazards",
+      "detail": "Kennesaw State University, First-Year Scholars Program (internal). $3,000.00. 2026 – 2027.",
+      "role": "PI",
+      "source": "Baek, M. (Principal Investigator). Using 360° Images and AI to Identify Construction Site Access and Clutter Hazards. Sponsor: Kennesaw State University, First-Year Scholars Program (internal). $3,000.00. 2026 – 2027."
+    },
+    {
+      "title": "2026 Research, Scholarship and Creative Activity Grants",
+      "detail": "Office of Research, Kennesaw State University (internal). $4,719.00. Funded, March 2026 – October 2026.",
+      "role": "PI",
+      "source": "Baek, M. (Principal). 2026 Research, Scholarship and Creative Activity Grants. Sponsor: Office of Research, Kennesaw State University (internal). $4,719.00. Funded, March 2026 – October 2026."
+    },
+    {
+      "title": "2024 CACM Faculty Summer Research Grants: Analyzing Patterns of the Level of Competition for Transportation Projects with Project Characteristics and External Market Conditions",
+      "detail": "Kennesaw State University (internal). $4,999.00. Funded, April 2024 – October 2024.",
+      "role": "PI",
+      "source": "Baek, M. (Principal), & Noh, J. (Co-Principal). 2024 CACM Faculty Summer Research Grants: Analyzing Patterns of the Level of Competition for Transportation Projects with Project Characteristics and External Market Conditions. Sponsor: Kennesaw State University (internal). $4,999.00. Funded, April 2024 – October 2024."
+    },
+    {
+      "title": "Enhancing the GDOT's Maintenance Decision Trees Considering the Effectiveness of Various Treatment Options in Different Geographical Locations and Over Time",
+      "detail": "Georgia Department of Transportation (GDOT). $300,000.00. April 2022 – July 2024.",
+      "role": "PI",
+      "source": "Baek, M. (Principal), & Ashuri, B. (Co-Principal). Enhancing the GDOT's Maintenance Decision Trees Considering the Effectiveness of Various Treatment Options in Different Geographical Locations and Over Time. Sponsor: Georgia Department of Transportation (GDOT). $300,000.00. April 2022 – July 2024."
+    },
+    {
+      "title": "NCHRP 20-05/Topic 57-11A: Practices for Implementing Right-of-Way Engineering",
+      "detail": "National Academy of Sciences. $60,000.00. September 11, 2026 – August 24, 2027.",
+      "role": "Co-PI",
+      "source": "Chung, F. (Principal), Baek, M. (Co-Principal), & Ashuri, B. (Co-Principal). NCHRP 20-05/Topic 57-11A: Practices for Implementing Right-of-Way Engineering. Sponsor: National Academy of Sciences. $60,000.00. September 11, 2026 – August 24, 2027."
+    },
+    {
+      "title": "Educating the Next Generation of Engineers on Sustainable Demolition Practices",
+      "detail": "Environmental Protection Agency (EPA) and Florida A&M University–Florida State University (federal). $5,000.00. Funded, August 2023 – August 2024.",
+      "role": "Co-PI",
+      "source": "Choi, J. (Principal), & Baek, M. (Co-Principal). Educating the Next Generation of Engineers on Sustainable Demolition Practices. Sponsor: Environmental Protection Agency (EPA) and Florida A&M University–Florida State University (federal). $5,000.00. Funded, August 2023 – August 2024."
+    },
+    {
+      "title": "Enhancing the Accuracy of Construction Cost Estimates for Major Lump Sum (LS) Pay Items and Generating a More-Accurate List of Pay Items Throughout the Design Development Process",
+      "detail": "Georgia Department of Transportation (GDOT). $260,000.00. July 2020 – May 2022.",
+      "role": "Co-PI",
+      "source": "Ashuri, B. (Principal), & Baek, M. (Co-Principal). Enhancing the Accuracy of Construction Cost Estimates for Major Lump Sum (LS) Pay Items and Generating a More-Accurate List of Pay Items Throughout the Design Development Process. Sponsor: Georgia Department of Transportation (GDOT). $260,000.00. July 2020 – May 2022."
+    }
+  ]
+}
