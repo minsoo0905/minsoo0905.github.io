@@ -33,3 +33,7 @@ Past students: eight research supervision entries from the CV are listed separat
 Four user-supplied figures appear on the homepage and matching publication records. The bidding workflow is the original embedded image extracted from page 1 of Figures.pdf. The electricity comparison is the original image embedded in Figure 6.docx. Housing and low-bid figures are the supplied screenshots. Figure content has not been altered. Captions are descriptive website captions, not claimed verbatim publication captions. Full-size image links preserve access to plot labels.
 
 Figure display revised: four standalone homepage previews appear in Research highlights, separate from text-only publication entries. The bidding preview uses the original SHAP feature-importance image from page 5 of Figures.pdf instead of the workflow. No paper titles or captions accompany gallery previews; descriptive alt text and full-size links remain.
+
+## News
+
+The homepage News section starts with three awards documented in the supplied CV, preserving the date precision available. To add a news item, copy a news-entry article in index.html, update its date, category, title and description, and place the newest item first. Use only confirmed acceptance or conference dates; do not infer acceptance dates from publication years.
